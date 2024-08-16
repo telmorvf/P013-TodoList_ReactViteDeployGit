@@ -17,7 +17,7 @@ const App = () => {
       category: "Trabalho",
       isCompleted: false,
     },
-    { id: 2,text: "Ir para a academia", category: "Pessoal", isCompleted: false },
+    { id: 2,text: "Ir para o Ginasio", category: "Pessoal", isCompleted: false },
     {
       id: 3,
       text: "Estudar React",
